@@ -9,6 +9,7 @@ Exemplos de código criados durante as aulas de Computação em Nuvem.
 * Instalar o [.NET Core SDK](https://www.microsoft.com/net/download/core).
 * Instalar a [extensão C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) no marketplace do Visual Studio Code.
 
+### GitHub
 * Criar uma conta no site [GitHub](https://github.com/)
 * Caso precise de ajuda com o Git, verificar nestes links:
 * [Contributing to Projects with GitHub for Visual Studio](https://github.com/github/VisualStudio/blob/master/docs/contributing/index.md)
